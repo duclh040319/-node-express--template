@@ -5,6 +5,8 @@
 
 // const connectToDb = () => {
 //     mongoose.connect('mongodb://localhost/<your db>')
+//          .then(() => {console.log('>>> Connected to mongodb <<<')})
+//          .catch(err => {console.log(err)})
 // }
 
 // module.exports = { connectToDb }
